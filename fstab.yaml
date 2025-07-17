@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/nr-karthik/universal-editor-demo/main
+    url: "https://author-p101704-e1311300.adobeaemcloud.com/bin/franklin.delivery/nr-karthik/universal-editor-demo/main
 "
     type: "markup"
     suffix: ".html"
